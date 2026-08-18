@@ -29,6 +29,9 @@ file:///sdcard/
 2. [个人主页 xfgken.github.io](https://xfgken.github.io/)  
    点击进入个人主页。
 
+3. [必应搜索（中国）](https://cn.bing.com/)  
+   点击进入必应搜索中国版。
+
 ---
 
 ## 三、车机使用指引
