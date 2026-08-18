@@ -32,6 +32,9 @@ file:///sdcard/
 3. [必应搜索（中国）](https://cn.bing.com/)  
    点击进入必应搜索中国版。
 
+4. [Intent Deeplink 工具](https://uncle.tools/deeplink/intent?utm_source=chatgpt.com)  
+   点击进入 Intent Deeplink 生成工具。
+
 ---
 
 ## 三、车机使用指引
