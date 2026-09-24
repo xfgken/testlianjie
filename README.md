@@ -35,6 +35,8 @@ file:///sdcard/
 4. [Intent Deeplink 工具](https://uncle.tools/deeplink/intent?utm_source=chatgpt.com)  
    点击进入 Intent Deeplink 生成工具。
 
+5. [jamcz.com](https://jamcz.com/)  
+   点击进入 jamcz.com。
 ---
 
 ## 三、车机使用指引
